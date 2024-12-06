@@ -14,7 +14,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" title="Wordpress" alt="Wordpress " width="40" height="40"/>&nbsp;
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/54946572/281752331-0ed1571c-e3df-4f34-94df-102c0afbdb2b.png"  title="Strapi" alt="Strapi" width="40" height="40"/>&nbsp;
-  <img src="  https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" title="Vue"  alt="Vue" width="40" height="40"/>&nbsp;
