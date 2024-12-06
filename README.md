@@ -28,11 +28,11 @@
 
 ## Some projects
 
-### 🌤️ <a href="https://meteo-miniproject.netlify.app/">Meteo app</a>
+### 🌤️ <a href="https://meteo-miniproject.netlify.app/">Meteo app</a> :
 
 #### A simple meteo app with local date and time. Data fetched from <a href="https://api.openweathermap.org">OpenWeather</a>.
 
-### 🌍 <a href="https://quizgeo.netlify.app/">QuizGeo</a>
+### 🌍 <a href="https://quizgeo.netlify.app/">QuizGeo</a> :
 
 #### A quiz about geography (in french) made with React.
 
