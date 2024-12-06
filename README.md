@@ -2,7 +2,7 @@
 
 ## About me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=800&color=9413F7&background=020101&center=true&vCenter=true&width=700&height=200&lines=Hi+👋🏽+!+My+name+is+Sarah;I'm+a+freelance+front-end+developer;I+also+like+coding+just+for+fun)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=800&color=9413F7&background=020101&center=true&vCenter=true&width=900&height=200&lines=Hi+👋🏽+!+My+name+is+Sarah;I'm+a+freelance+front-end+developer;I+also+like+coding+just+for+fun)](https://git.io/typing-svg)
 
 ## Languages and tools
 
