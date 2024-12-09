@@ -26,7 +26,11 @@
   <img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" title="Mac" **alt="Mac" width="40" height="40"/>&nbsp;
 </div>
 
-## Some projects
+## Some personal projects
+
+### 🛠️ Currently in development : <a href="https://molkky-calculator.netlify.app/">Mölkky score calculator</a>
+
+#### A score calculator for Mölkky players, made with React (for mobile).
 
 ### 🌤️ <a href="https://meteo-miniproject.netlify.app/">Meteo app</a>
 
